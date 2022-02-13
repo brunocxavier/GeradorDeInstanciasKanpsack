@@ -1,0 +1,4 @@
+{"numberOfItems":5,
+"capacity":100,
+"values":[95, 109, 45, 38, 81],
+"weights":[8, 4, 29, 8, 46]}
